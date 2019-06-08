@@ -1,0 +1,60 @@
+<!Doctype html>
+
+
+<html>
+
+        <head>
+        
+            <title>Craft Beer</title>
+            <meta charset="utf-8"/>
+        
+        </head>
+    
+        <body>
+
+            <h1>Produtos</h1>
+            Cerveja <strong><em>duchesse de bourgogne</em></strong><br/>
+            <img src="https://cervejastore.vteximg.com.br/arquivos/ids/155825/duchesse-de-bourgogne.jpg?v=636166139867830000.jpg" 
+            width="150" height="200"/><br/>
+            A cerveja Duchesse de Bourgogne é uma representante do estilo Flanders Red Ale, tradicional da região oeste de Flandres na Bélgica.<br/>
+            Uma cerveja delicada, maturada em barril de carvalho francês por 1 ano e meio. O aroma remete a frutas vermelhas e uma acidez balsâmica<br/> 
+            com notas vinificas aparentes. No paladar, um balanço entre dulçor e acidez, remetendo melaço , balsâmico, frutas secas e suaves taninos.<br/> 
+            Duchesse de Bourgogne é considerada a cerveja que contem notas mais vinificas dentre as cervejas.<br/>
+
+            <input type="submit" value="Comprar" />
+            <hr>
+
+            Cerveja <strong><em>Morada Hop Arabica</em></strong><br/>
+            <img src="https://clubedomalte.fbitsstatic.net/img/p/morada-hop-arabica-355ml-64064/230917-2.jpg?w=800&h=800&v=no-change.jpg" 
+            width="160" height="150"/><br/>
+            Seria este o café mais lupuladamente refrescante? Ou a cerveja mais cafeinadamente aromática? Essa é uma cerveja colaborativa, produzida<br/>
+            entre o Lucca Cafés Especiais e a Morada Cia. Etílica, e une as duas bebidas mais consumidas e amadas dos brasileiros: a cerveja <br/>
+            ("hop", lúpulo em inglês) e o café (Arabica, parte do nome científico da planta).Ganhadora da medalha de ouro no Festival Brasileiro <br/>
+            da Cerveja (categoria Coffe-Flavored Beer) e considerada a melhor Ale Nacional na Enquete do Bob 2015.<br/>
+
+            <input type="submit" value="Comprar" />
+            <hr>
+
+            Cerveja <strong><em>North Coast Old Rasputin</em></strong><br/>
+            <img src="https://thebeerplanet.vteximg.com.br/arquivos/ids/268613-1000-1000/Cerveja-North-Coast-Old-Rasputin-355ml.jpg?v=636524624679370000.jpg"
+            width="150" height="180"/><br/>
+            A cerveja North Coast Old Rasputin é uma cerveja dos Estados Unidos, produzida na tradição da cerveja inglesa do século 18, que forneciam para<br/>
+            a corte Russa de Catarina, a Grande. De coloração escura, esta cerveja apresenta uma mistura muito rica e intensa, com sabores complexos e um <br/>
+            acabamento aquecido. <br/>
+
+            <input type="submit" value="Comprar" />
+            <hr>
+
+            Cerveja <strong><em>Morada Double Vienna</em></strong><br/>
+            <img src="https://clubedomalte.fbitsstatic.net/img/p/morada-double-vienna-355ml-63369/230222-2.jpg?w=800&h=800&v=no-change.jpg"
+            width="150" height="170"/><br/>
+            A cerveja artesanal Morada Double Vienna. Etílica apresenta coloração âmbar e uma abundante formação de espuma densa e persistente.<br/>
+            De sabor bem maltado, no aroma traz notas evidentes de caramelo, um leve tostado, discreto frutado e notas cítricas e herbais de lúpulo. Na boca,<br/> 
+            é inicialmente adocicada, mas termina com belo final amargo!<br/>
+
+            <input type="submit" value="Comprar" />
+
+    
+        </body>
+    
+    </html>
